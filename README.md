@@ -17,7 +17,7 @@
 * API testing with Rest assured
 * Mobile testing
 
-🌱 I’m currently collaborating on Allure TestOps automated testing.
+🌱 I’m currently collaborating on Allure TestOps automated testing project.
 
 <!--
 **rocketby/rocketby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
