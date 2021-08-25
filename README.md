@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+I am a Java test automation engineer with extensive knowledge in manual testing!
+
+I have knowledge in the following technologies:
+
+Java
+JUnit
+Gradle
+Selenide
+Selenoid
+
+
 <!--
 **rocketby/rocketby** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
