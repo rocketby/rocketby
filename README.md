@@ -1,5 +1,5 @@
 ### Hi there 👋
-:woman_technologist: I am a test automation engineer with extensive knowledge in manual testing! 
+:woman_technologist: I am a test automation engineer with knowledge in manual testing! 
 
 ### My skills:
 
