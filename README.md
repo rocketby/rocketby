@@ -7,8 +7,8 @@
 *  JUnit
 *  Gradle
 *  Selenide
-*  Selenoid
 *  Jenkins
+*  Selenoid
 *  Allure Reports/Allure TestOps
 *  Git/GitHub
 
