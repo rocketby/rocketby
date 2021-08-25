@@ -4,19 +4,16 @@
 I like taking part in all steps of software development and delivering high-quality product to users! :ok_hand:
 ### :star: My skills:
 
-*  Java
-*  JUnit
-*  Gradle
-*  Selenide
-*  Jenkins
-*  Selenoid
-*  Allure Reports/Allure TestOps
-*  Git/GitHub
+:heavy_check_mark: Java :heavy_check_mark: JUnit :heavy_check_mark: Gradle :heavy_check_mark: Selenide :heavy_check_mark: Jenkins :heavy_check_mark: Selenoid  :heavy_check_mark: Git :heavy_check_mark: SQL :heavy_check_mark: Allure Reports/Allure TestOps 
+
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rocketby&show_icons=true&theme=radical)
+
 
 ### Projects related to :rocket::
 * WEB UI automated testing
 * API testing with Rest assured
 * Mobile testing
+
 
 🌱 I’m currently collaborating on Allure TestOps automated testing project.
 
