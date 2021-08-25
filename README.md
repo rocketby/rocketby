@@ -1,7 +1,8 @@
 ### Hi there 👋
-:woman_technologist: I am a test automation engineer with knowledge in manual testing! 
+:woman_technologist: I am a QA engineer with knowledge in test automation and manual testing.
 
-### My skills:
+I like taking part in all steps of software development and delivering high-quality product to users! :ok_hand:
+### :star: My skills:
 
 *  Java
 *  JUnit
