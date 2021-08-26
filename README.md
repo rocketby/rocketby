@@ -9,8 +9,8 @@ I like taking part in all steps of software development cycle and delivering hig
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=rocketby&show_icons=true&theme=dark)
 
 ### Projects related to :rocket::
-* WEB UI automated testing
-* API testing with Rest assured
+* WEB UI automated testing: https://github.com/rocketby/d-telekom-tests 
+* API testing with Rest assured: https://github.com/rocketby/reqres.in
 * Mobile testing
 
 🌱 I’m currently collaborating on Allure TestOps automated testing project.
