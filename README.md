@@ -11,7 +11,7 @@ I like taking part in all steps of software development cycle and delivering hig
 ### Projects related to :rocket::
 * WEB UI automated testing: https://github.com/rocketby/d-telekom-tests 
 * API testing with Rest assured: https://github.com/rocketby/reqres.in
-* Mobile testing
+* Mobile testing with Appium: https://github.com/rocketby/mobile_appium
 
 🌱 I’m currently collaborating on Allure TestOps automated testing project.
 
