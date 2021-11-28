@@ -1,5 +1,5 @@
 ### Hi there 👋
-:woman_technologist: I am a QA engineer with knowledge in test automation and manual test design techniques.
+:woman_technologist: I am a QA engineer with knowledge in test automation and test design techniques.
 
 I like taking part in all steps of software development cycle and delivering high-quality product to users! :ok_hand:
 ### :star: My skills:
